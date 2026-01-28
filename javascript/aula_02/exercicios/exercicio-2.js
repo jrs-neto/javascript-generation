@@ -1,6 +1,6 @@
 const leia = require("readline-sync");
 
-console.log("Seja bem vindo ao Aplicativo de Notas.");
+console.log("Seja bem vindo ao Aplicativo de Cálculo de Notas.");
 
 let nota1 = leia.questionFloat("Digite a primeira nota:");
 let nota2 = leia.questionFloat("Digite a segunda nota:");
