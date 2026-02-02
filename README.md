@@ -92,7 +92,7 @@ Para executar os exemplos localmente, você precisará de:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/jrs-neto/javascript-generation.git
+git clone https://github.com/jrs-neto/JavaScript-Bootcamp-Generation.git
 ```
 
 2. Abra a pasta do projeto no **Visual Studio Code**
